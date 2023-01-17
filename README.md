@@ -1,3 +1,3 @@
 # -react-basics-labs
 
-Labs
+Lab week 1
